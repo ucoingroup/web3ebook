@@ -1,6 +1,100 @@
 # web3ebook
 web3ebook
 
+WEB3 & WEB4 Ultimate Guide
+From Solana to AI Economic Citizen
+
+Book Blurb
+
+This definitive guide maps a clear, actionable path for global overseas users to advance from Web3 beginners to on-chain community nodes and AI economic citizens.
+
+Centered on the Solana ecosystem and using EACO as a real-world training case, it unifies mindset reshaping, Solana on-chain practical skills, DeFi & NFT & DAO participation, and the emerging paradigm of Web4 + AI Agents.
+You will learn not merely to speculate on crypto assets, but to master a complete growth system: building on-chain identity, joining community governance, creating sustainable on-chain income, and preparing for the upcoming AI-driven Web4 economy.
+
+A must-have practical handbook for overseas Chinese and global netizens seeking financial autonomy, cross-border freedom, and long-term social mobility in the decentralized era.
+
+
+
+“This is not a simple crypto tutorial — it is a systematic roadmap for ordinary people to step into Web3, anchor themselves in Solana, and seize the Web4 AI economy era.”
+
+
+# Table of Contents
+## Prologue
+Why Solana + EACO
+Internet Generations: Web1 → Web2 → Web3 → Web4
+Dilemmas of Overseas Communities
+Why Choose Solana
+EACO Community Token Positioning
+
+## Part 1 Mindset: Class Advancement — From Asset-Less to Ecosystem Node
+Chapter 1 Three Levels of Mindset Reshaping
+- From Consumer to Owner
+- From Passive to Active Participant
+- From Lone Wolf to Consensus Builder
+
+Chapter 2 EACO Practical Case: The Social Mobility Training Path
+- Four-stage Growth Simulation
+- Core Insight: Grow into a Crypto Citizen, Not Just Speculate on Tokens
+
+## Part 2 Practical Skills: Solana Web3 Toolkit
+Chapter 3 Essential Solana Survival Skills
+- Wallets: Phantom / Backpack
+- On-chain Explorer: Solscan
+- Swap Aggregator: Jupiter
+- Anti-scam & Risk Prevention
+
+Chapter 4 Complete EACO Operation Guide
+- How to Purchase EACO
+- Secure Asset Storage
+- Authentic Community Participation
+- Cross-border Payment Practical Testing
+
+Chapter 5 Full Web3 Skill Tree
+- Airdrop Interaction Strategies
+- On-chain Reputation & DID / Domain
+- DeFi: Staking, LP & Yield Farming
+- NFT & Compressed NFT (Bubblegum Standard)
+- DAO Participation & Governance
+- Monthly Solana Must-interact Project Updates
+
+## Part 3 Future Outlook: Web4 — AI + Crypto New Era
+Chapter 6 What Is Web4
+- Web4 Definition & Core Composition
+- AI Agent: From Tool to On-chain Independent Role
+- Lifestyle Impact for Ordinary Users
+
+Chapter 7 AI Agent Economy & Solana Synergy
+- Solana’s Advantages for AI High-frequency Micro-transactions
+- Real Industry Application Cases
+- Three-year Future Trend Forecast
+
+Chapter 8 How Ordinary People Prepare for Web4
+- Vibe Coding with Natural Language
+- Personal Knowledge Base & Private AI
+- Early Participation in AI + Crypto Projects
+
+## Part 4 Ecosystem: Decentralized Freedom for Overseas Users
+Chapter 9 From On-chain Footprint to On-chain Income
+- Web3 Remote Work Platforms
+- On-chain Bounty & Task Ecosystems
+- Content Creation & Monetization Paths
+
+Chapter 10 Long-term Potential of EACO
+- Multiple Utility Directions: Payment / Governance / Identity / AI Micro-payment
+- Community Building & Collective Growth Logic
+
+## Appendix Dynamic Resource Library
+Weekly Updated Columns
+Monthly PDF Special Issues
+Official Permanent Links & Contact
+
+## Access & Contribution Guidelines
+How to Obtain the Free Guide
+Weekly / Monthly Subscription
+Become a Contributor & Earn EACO Rewards
+
+## Core Thesis & Disclaimer
+
 
 
 
