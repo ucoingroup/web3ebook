@@ -278,6 +278,22 @@ https://github.com/ucoingroup/web3ebook
 
 <img width="1024" height="1536" alt="web3ebook 5844dab9d9a0603e591fa9deb9ca5662" src="https://github.com/user-attachments/assets/c4ba8a78-f795-4792-b139-70a162f63ea2" />
 
+## web3web4智能科技 ，看好 这本电子书发展的，欢迎打赏sol & wBNB 及链上所有代币，
+
+SOL / wBNB / wETH / USDT /eaco 等地址，
+
+8jpA6mfoZvdbQA1tMqWZyQnsn3CqtRfjeaXPArt4uhNE
+
+<img width="347" height="519" alt="web3web4智能科技 ，看好 这本电子书发展的，欢迎打赏sol & wBNB 及链上所有代币，image" src="https://github.com/user-attachments/assets/94246044-acc8-4513-89e5-753028106e85" />
+
+
+
+ 
+## BNB / evm / USDC / wDOGE 等地址，
+
+0xedba2da577942bff3ca03bcb88b0190a3dbeef94
+
+<img width="340" height="462" alt=" BNB / evm / USDC / wDOGE 等地址， image" src="https://github.com/user-attachments/assets/eaef19fc-cc4f-4a41-a410-c8276a43bcaa" />
 
 
 https://github.com/ucoingroup/web3ebook
